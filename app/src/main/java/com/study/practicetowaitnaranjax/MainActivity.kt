@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //holaasdafgasdasdasdsadfgdfgfdsdas
 dsfsdfsdfsdfdsf
-    }rgddfgdgfcbcfcfgbfbcfxvxcgdfgdfgdfgsdgdfgdfgdfgdfdfgdvcxvdfgdfgdfg
+    }rgddfgdgfcbcfcfgbfbcfxvzxczxzxczxcxcgdfgdfgdfgsdgdfgdfgdfgdfdfgdvcxvdfgdfgdfg
 dfgdgxcvcxvcxvcxxcvxcvxcvxc
 }
 aweweqweqwzxzxfzfzcsdsfsdfsdfds
